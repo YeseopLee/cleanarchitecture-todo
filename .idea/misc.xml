@@ -4,8 +4,10 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/lee/StudioProjects/cleanarchitecture-todo/app/src/main/res/drawable/ic_plus.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/lee/StudioProjects/cleanarchitecture-todo/app/src/main/res/layout/activity_detail.xml" value="0.1" />
         <entry key="..\:/Users/lee/StudioProjects/cleanarchitecture-todo/app/src/main/res/layout/activity_list.xml" value="0.25" />
         <entry key="..\:/Users/lee/StudioProjects/cleanarchitecture-todo/app/src/main/res/layout/viewholder_todo_item.xml" value="0.203125" />
+        <entry key="..\:/Users/lee/StudioProjects/cleanarchitecture-todo/app/src/main/res/menu/list_menu.xml" value="0.1" />
       </map>
     </option>
   </component>
